@@ -16,6 +16,10 @@
     
   }
   
+  .minji{
+    max-width: 100vh;
+    background-image: url(../assets/pexels-vlad-alexandru-popa-1402787.jpg);
+  }
   .brand img{
   position: absolute;
   padding-left: 120px;
