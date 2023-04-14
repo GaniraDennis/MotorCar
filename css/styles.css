@@ -7,7 +7,7 @@
     box-sizing: border-box;
   }
   .ganira {
-    max-height: 100vh;
+    min-height: 100vh;
     width: 100%;   
     background-image: url(/assets/pexels-vlad-alexandru-popa-1402787.jpg);
     background-size:     cover;                      
@@ -17,8 +17,28 @@
   }
   
   .minji{
-    max-width: 100vh;
-    background-image: url(../assets/pexels-vlad-alexandru-popa-1402787.jpg);
+    min-height: 100vh;
+    width: 100%;   
+    background-image: url(/assets/pexels-vlad-alexandru-popa-1402787.jpg);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center ;  
+  }
+  .ojuku{
+    min-height: 100vh;
+    width: 100%;   
+    background-image: url(/assets/pexels-vlad-alexandru-popa-1402787.jpg);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center ;  
+  }
+  .gallery{
+    min-height: 100vh;
+    width: 100%;   
+    background-image: url(/assets/pexels-vlad-alexandru-popa-1402787.jpg);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center ;  
   }
   .brand img{
   position: absolute;
